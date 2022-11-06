@@ -7,5 +7,5 @@
 
 const _ = require('lodash')
 
-const number = _.random(0, 1)
-console.log(number)
+// const number = _.random(0, 1)
+// console.log(number)
